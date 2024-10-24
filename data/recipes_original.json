@@ -1,0 +1,221 @@
+{
+  "recipes": [
+    {
+      "name": "Dorayaki",
+      "calories": 452,
+      "mealType": ["dessert"],
+      "cuisineType": ["japanese"],
+      "ingredients": [
+        { "amount": 4, "unit": "count", "ingredient": "eggs", "foodCategories": ["eggs"], "calories": 200 },
+        { "amount": 140, "unit": "g", "ingredient": "sugar", "foodCategories": ["sugars"], "calories": 560 },
+        { "amount": 2, "unit": "ml", "ingredient": "honey", "foodCategories": ["sugars"], "calories": 6 },
+        { "amount": 130, "unit": "g", "ingredient": "flour", "foodCategories": ["grains"], "calories": 455 },
+        { "amount": 1, "unit": "g", "ingredient": "baking soda", "foodCategories": ["condiments and sauces"], "calories": 2 },
+        { "amount": 10, "unit": "ml", "ingredient": "water", "foodCategories": ["liquid"], "calories": 0 },
+        { "amount": 15, "unit": "ml", "ingredient": "oil", "foodCategories": ["oils"], "calories": 120 },
+        { "amount": 100, "unit": "g", "ingredient": "sweet red bean paste", "foodCategories": ["sugers"], "calories": 255 }
+      ]
+    },
+    {
+      "name": "Taiyaki",
+      "calories": 232,
+      "mealType": ["dessert"],
+      "cuisineType": ["japanese"],
+      "ingredients": [
+        { "amount": 125, "unit": "g", "ingredient": "flour", "foodCategories": ["grains"], "calories": 48 },
+        { "amount": 5, "unit": "g", "ingredient": "baking soda", "foodCategories": ["condiments and sauces"], "calories": 2 },
+        { "amount": 130, "unit": "g", "ingredient": "sugar", "foodCategories": ["sugars"], "calories": 150 },
+        { "amount": 1, "unit": "count", "ingredient": "eggs", "foodCategories": ["eggs"], "calories": 50 },
+        { "amount": 200, "unit": "ml", "ingredient": "milk", "foodCategories": ["dairy"], "calories": 97.5 },
+        { "amount": 100, "unit": "g", "ingredient": "sweet red bean paste", "foodCategories": ["sugers"], "calories": 170 },
+        { "amount": 15, "unit": "ml", "ingredient": "neutral oil", "foodCategories": ["oils"], "calories": 120 }
+      ]
+    },
+    {
+      "name": "Kasutera",
+      "calories": 0,
+      "mealType": ["dessert"],
+      "cuisineType": ["japanese"],
+      "ingredients": [
+        { "amount": 167, "unit": "g", "ingredient": "flour", "foodCategories": ["grains"], "calories": 56.67 },
+        { "amount": 25, "unit": "ml", "ingredient": "water", "foodCategories": ["liquid"], "calories": 0 },
+        { "amount": 50, "unit": "g", "ingredient": "honey", "foodCategories": ["sugars"], "calories": 279.33 },
+        { "amount": 6, "unit": "count", "ingredient": "eggs", "foodCategories": ["eggs"], "calories": 300 },
+        { "amount": 100, "unit": "g", "ingredient": "sugar", "foodCategories": ["sugars"], "calories": 774 },
+        { "amount": 50, "unit": "ml", "ingredient": "water", "foodCategories": ["liquid"], "calories": 0 }
+      ]
+    },
+    {
+      "name": "Matcha Cookies",
+      "calories": 126,
+      "mealType": ["dessert"],
+      "cuisineType": ["japanese"],
+      "ingredients": [
+        { "amount": 200, "unit": "g", "ingredient": "flour", "foodCategories": ["grains"], "calories": 190 },
+        { "amount": 25, "unit": "g", "ingredient": "matcha green tea powder", "foodCategories": ["condiments and sauces"], "calories": 15 },
+        { "amount": 175, "unit": "g", "ingredient": "butter", "foodCategories": ["oil"], "calories": 135 },
+        { "amount": 5, "unit": "g", "ingredient": "salt", "foodCategories": ["condiments and sauces"], "calories": 0 },
+        { "amount": 130, "unit": "g", "ingredient": "sugar", "foodCategories": ["sugars"], "calories": 520 },
+        { "amount": 2, "unit": "count", "ingredient": "egg yolks", "foodCategories": ["eggs"], "calories": 100 },
+        { "amount": 25, "unit": "g", "ingredient": "white chocolate chips", "foodCategories": ["condiments and sauces"], "calories": 140 }
+      ]
+    },
+    {
+      "name": "Japanese Sweet Potato Dessert",
+      "calories": 260,
+      "mealType": ["dessert"],
+      "cuisineType": ["japanese"],
+      "ingredients": [
+        { "amount": 300, "unit": "g", "ingredient": "Japanese sweet potatoes", "foodCategories": ["vegetables and fruits"], "calories": 420 },
+        { "amount": 20, "unit": "g", "ingredient": "butter", "foodCategories": ["oil"], "calories": 179 },
+        { "amount": 50, "unit": "g", "ingredient": "sugar", "foodCategories": ["sugars"], "calories": 120 },
+        { "amount": 3, "unit": "count", "ingredient": "egg yolks", "foodCategories": ["eggs"], "calories": 150 },
+        { "amount": 330, "unit": "g", "ingredient": "heavy (whipping) cream", "foodCategories": ["dairy"], "calories": 280 },
+        { "amount": 0.5, "unit": "g", "ingredient": "pure vanilla extract", "foodCategories": ["condiments and sauces"], "calories": 2.5 },
+        { "amount": 0.5, "unit": "g", "ingredient": "toasted black sesame seeds", "foodCategories": ["nuts"], "calories": 0 }
+      ]
+    },
+    {
+      "name": "Mooncake",
+      "calories": 140,
+      "mealType": ["dessert"],
+      "cuisineType": ["chinese"],
+      "ingredients": [
+        { "amount": 60, "unit": "g", "ingredient": "golden syrup", "foodCategories": ["sugars"], "calories": 234 },
+        { "amount": 250, "unit": "ml", "ingredient": "lye water (kansui)", "foodCategories": ["liquid"], "calories": 0 },
+        { "amount": 24, "unit": "g", "ingredient": "vegetable oil", "foodCategories": ["oils"], "calories": 213.6 },
+        { "amount": 100, "unit": "g", "ingredient": "flour", "foodCategories": ["grains"], "calories": 340 },
+        { "amount": 10, "unit": "count", "ingredient": "salted egg yolk", "foodCategories": ["eggs"], "calories": 550 },
+        { "amount": 220, "unit": "g", "ingredient": "sweet red bean paste", "foodCategories": ["sugers"], "calories": 132 }
+      ]
+    },
+    {
+      "name": "Sesame Ball",
+      "calories": 283,
+      "mealType": ["dessert"],
+      "cuisineType": ["chinese"],
+      "ingredients": [
+        { "amount": 150, "unit": "g", "ingredient": "flour", "foodCategories": ["grains"], "calories": 307.5 },
+        { "amount": 33, "unit": "g", "ingredient": "granulated sugar", "foodCategories": ["sugars"], "calories": 66 },
+        { "amount": 250, "unit": "ml", "ingredient": "boiling water", "foodCategories": ["liquid"], "calories": 0 },
+        { "amount": 250, "unit": "ml", "ingredient": "room temperature water", "foodCategories": ["liquid"], "calories": 0 },
+        { "amount": 170, "unit": "g", "ingredient": "sweet red bean paste", "foodCategories": ["sugers"], "calories": 42 },
+        { "amount": 25, "unit": "g", "ingredient": "sesame seeds", "foodCategories": ["nuts"], "calories": 105 },
+        { "amount": 4, "unit": "ml", "ingredient": "peanut or vegetable oil", "foodCategories": ["oils"], "calories": 28 }
+      ]
+    },
+    {
+      "name": "Pineapple Cake",
+      "calories": 2249,
+      "mealType": ["dessert"],
+      "cuisineType": ["not specified"],
+      "ingredients": [
+        { "amount": 200, "unit": "g", "ingredient": "crushed pineapples", "foodCategories": ["vegetables and fruits"], "calories": 90 },
+        { "amount": 100, "unit": "g", "ingredient": "sugar", "foodCategories": ["sugars"], "calories": 774 },
+        { "amount": 50, "unit": "ml", "ingredient": "corn syrup", "foodCategories": ["sugars"], "calories": 338 },
+        { "amount": 25, "unit": "g", "ingredient": "honey", "foodCategories": ["sugars"], "calories": 287.5 },
+        { "amount": 250, "unit": "g", "ingredient": "flour", "foodCategories": ["grains"], "calories": 95 },
+        { "amount": 60, "unit": "g", "ingredient": "icing sugar", "foodCategories": ["sugars"], "calories": 236.4 },
+        { "amount": 25, "unit": "g", "ingredient": "fat-free milk powder", "foodCategories": ["dairy"], "calories": 108 },
+        { "amount": 25, "unit": "g", "ingredient": "custard powder", "foodCategories": ["dairy"], "calories": 124 },
+        { "amount": 180, "unit": "g", "ingredient": "butter", "foodCategories": ["oil"], "calories": 144 },
+        { "amount": 2, "unit": "count", "ingredient": "egg yolks", "foodCategories": ["eggs"], "calories": 218 }
+      ]
+    },
+    {
+      "name": "Almond Cookies",
+      "calories": 3796.23,
+      "mealType": ["dessert"],
+      "cuisineType": ["not specified"],
+      "ingredients": [
+        { "amount": 100, "unit": "g", "ingredient": "butter", "foodCategories": ["oil"], "calories": 162 },
+        { "amount": 10, "unit": "g", "ingredient": "kosher salt", "foodCategories": ["condiments and sauces"], "calories": 0 },
+        { "amount": 2, "unit": "count", "ingredient": "eggs", "foodCategories": ["eggs"], "calories": 140 },
+        { "amount": 10, "unit": "g", "ingredient": "almond extract", "foodCategories": ["condiments and sauces"], "calories": 5 },
+        { "amount": 175, "unit": "g", "ingredient": "flour", "foodCategories": ["grains"], "calories": 70 },
+        { "amount": 300, "unit": "g", "ingredient": "sugar", "foodCategories": ["sugars"], "calories": 574 },
+        { "amount": 5, "unit": "g", "ingredient": "baking soda", "foodCategories": ["condiments and sauces"], "calories": 1.9 }
+      ]
+    },
+    {
+      "name": "Chinese Red Bean Pancakes",
+      "calories": 1879,
+      "mealType": ["breakfast", "dessert"],
+      "cuisineType": ["chinese"],
+      "ingredients": [
+        { "amount": 120, "unit": "g", "ingredient": "flour", "foodCategories": ["grains"], "calories": 455.2 },
+        { "amount": 200, "unit": "ml", "ingredient": "milk", "foodCategories": ["dairy"], "calories": 80 },
+        { "amount": 1, "unit": "count", "ingredient": "large egg", "foodCategories": ["eggs"], "calories": 70 },
+        { "amount": 10, "unit": "g", "ingredient": "sugar", "foodCategories": ["sugars"], "calories": 4 },
+        { "amount": 10, "unit": "ml", "ingredient": "cooking oil", "foodCategories": ["oils"], "calories": 120 },
+        { "amount": 250, "unit": "g", "ingredient": "sweet red bean paste", "foodCategories": ["sugers"], "calories": 755 },
+        { "amount": 300, "unit": "ml", "ingredient": "water", "foodCategories": ["liquid"], "calories": 0 },
+        { "amount": 10, "unit": "g", "ingredient": "white sesame seeds", "foodCategories": ["nuts"], "calories": 52 }
+      ]
+    },
+    {
+      "name": "Persian Saffron Rock Candy",
+      "calories": 300,
+      "mealType": ["dessert"],
+      "cuisineType": ["iranian"],
+      "ingredients": [
+        { "amount": 100, "unit": "g", "ingredient": "sugar", "foodCategories": ["sugars"], "calories": 74 },
+        { "amount": 10, "unit": "g", "ingredient": "Persian saffron", "foodCategories": ["spices"], "calories": 15 }
+      ]
+    },
+    {
+      "name": "Zoolbia and Bamieh",
+      "calories": 500,
+      "mealType": ["dessert"],
+      "cuisineType": ["iranian"],
+      "ingredients": [
+        { "amount": 100, "unit": "g", "ingredient": "flour", "foodCategories": ["grains"], "calories": 455 },
+        { "amount": 100, "unit": "g", "ingredient": "yogurt", "foodCategories": ["dairy"], "calories": 150 },
+        { "amount": 15, "unit": "g", "ingredient": "baking soda", "foodCategories": ["condiments and sauces"], "calories": 2 },
+        { "amount": 200, "unit": "g", "ingredient": "sugar", "foodCategories": ["sugars"], "calories": 774 },
+        { "amount": 150, "unit": "ml", "ingredient": "rosewater syrup", "foodCategories": ["liquid"], "calories": 400 }
+      ]
+    },
+    {
+      "name": "Faloodeh",
+      "calories": 350,
+      "mealType": ["dessert"],
+      "cuisineType": ["iranian"],
+      "ingredients": [
+        { "amount": 100, "unit": "g", "ingredient": "rice vermicelli noodles", "foodCategories": ["grains"], "calories": 200 },
+        { "amount": 150, "unit": "ml", "ingredient": "rosewater", "foodCategories": ["liquid"], "calories": 50 },
+        { "amount": 200, "unit": "g", "ingredient": "sugar", "foodCategories": ["sugars"], "calories": 204 },
+        { "amount": 15, "unit": "ml", "ingredient": "lemon juice", "foodCategories": ["liquid"], "calories": 4 }
+      ]
+    },
+    {
+      "name": "Baghlava",
+      "calories": 600,
+      "mealType": ["dessert"],
+      "cuisineType": ["iranian"],
+      "ingredients": [
+        { "amount": 20, "unit": "g", "ingredient": "walnuts", "foodCategories": ["nuts"], "calories": 20 },
+        { "amount": 100, "unit": "g", "ingredient": "butter", "foodCategories": ["oil"], "calories": 162 },
+        { "amount": 100, "unit": "g", "ingredient": "sugar", "foodCategories": ["sugars"], "calories": 100 },
+        { "amount": 15, "unit": "g", "ingredient": "ground cinnamon", "foodCategories": ["spices"], "calories": 6 },
+        { "amount": 300, "unit": "g", "ingredient": "phyllo dough", "foodCategories": ["grains"], "calories": 500 }
+      ]
+    },
+    {
+      "name": "Halva",
+      "calories": 400,
+      "mealType": ["dessert"],
+      "cuisineType": ["iranian"],
+      "ingredients": [
+        { "amount": 200, "unit": "g", "ingredient": "semolina", "foodCategories": ["grains"], "calories": 600 },
+        { "amount": 50, "unit": "g", "ingredient": "sugar", "foodCategories": ["sugars"], "calories": 77 },
+        { "amount": 100, "unit": "g", "ingredient": "butter", "foodCategories": ["oil"], "calories": 162 },
+        { "amount": 150, "unit": "ml", "ingredient": "water", "foodCategories": ["liquid"], "calories": 0 },
+        { "amount": 15, "unit": "g", "ingredient": "cardamom powder", "foodCategories": ["spices"], "calories": 6 }
+      ]
+    }
+  ]  
+}
+
+
+
